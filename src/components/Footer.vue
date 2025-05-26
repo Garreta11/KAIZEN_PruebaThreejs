@@ -1,13 +1,10 @@
 <template>
+  <!-- Pie de página fijo en la parte inferior -->
   <div class="footer">
-    <p>Jordi Garreta i Duarte</p>
-    <p>jordigarreta11@gmail.com</p>
+    <p>Jordi Garreta i Duarte</p>       <!-- Nombre -->
+    <p>jordigarreta11@gmail.com</p>    <!-- Email -->
   </div>
 </template>
-
-<script setup>
-
-</script>
 
 <style scoped>
 .footer {
